@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockShare", "StockShare\StockShare.csproj", "{F4D5A2EE-57DA-4641-8609-10018476DA6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D5A2EE-57DA-4641-8609-10018476DA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D5A2EE-57DA-4641-8609-10018476DA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D5A2EE-57DA-4641-8609-10018476DA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D5A2EE-57DA-4641-8609-10018476DA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE4181D8-591A-4133-9F5A-019B06D3CE7F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\320052304\source\repos\StockShare\StockShare\bin\Debug\StockShare.exe.config
+C:\Users\320052304\source\repos\StockShare\StockShare\bin\Debug\StockShare.exe
+C:\Users\320052304\source\repos\StockShare\StockShare\bin\Debug\StockShare.pdb
+C:\Users\320052304\source\repos\StockShare\StockShare\obj\Debug\StockShare.csprojAssemblyReference.cache
+C:\Users\320052304\source\repos\StockShare\StockShare\obj\Debug\StockShare.csproj.CoreCompileInputs.cache
+C:\Users\320052304\source\repos\StockShare\StockShare\obj\Debug\StockShare.exe
+C:\Users\320052304\source\repos\StockShare\StockShare\obj\Debug\StockShare.pdb
+C:\Users\320052304\aman\StockTradeApp\StockShare\StockShare\bin\Debug\StockShare.exe.config
+C:\Users\320052304\aman\StockTradeApp\StockShare\StockShare\bin\Debug\StockShare.exe
+C:\Users\320052304\aman\StockTradeApp\StockShare\StockShare\bin\Debug\StockShare.pdb
+C:\Users\320052304\aman\StockTradeApp\StockShare\StockShare\obj\Debug\StockShare.csprojAssemblyReference.cache
+C:\Users\320052304\aman\StockTradeApp\StockShare\StockShare\obj\Debug\StockShare.csproj.CoreCompileInputs.cache
+C:\Users\320052304\aman\StockTradeApp\StockShare\StockShare\obj\Debug\StockShare.exe
+C:\Users\320052304\aman\StockTradeApp\StockShare\StockShare\obj\Debug\StockShare.pdb
